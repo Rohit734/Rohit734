@@ -24,10 +24,10 @@ I completed my Bachelor's in Technology (B.Tech) in Information Technology from 
 
 I have expertise in the following areas:
 
-- Programming Language: Python
+- Programming Language: Python,C++, C
 - Database: MySQL
 - Web Technologies: HTML, CSS, Django
-- Tools: Microsoft Excel, Power BI
+- Tools: Microsoft Excel, Power BI, Google Sheets
 
 ## Current Endeavors
 
