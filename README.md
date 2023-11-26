@@ -1,91 +1,46 @@
-### <div align="center">I'm Rohit, waving 👋👋 at you from Sikkim.</div>  
-  
+# Rohit Pradhan's Profile
 
-- 🔭 I’m currently working on Image processing and segmentation.  
-  
+Hello there! 👋 I'm Rohit Pradhan, a passionate individual with a background in Information Technology. Here's a little about me:
 
-- 🌱 I’m currently learning Kotlin for android development.  
-  
-
-- ❓ Ask me about anything, but not about atoms, they make up everything.😤😤😤😤  
-  
-
-- ⚡ Fun fact:   
-  
-
-<br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-### Frontend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" />  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Backend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rohit-pradhan-461288174/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/Rohit734" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Rohit734&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-<br/>  
+## Table of Contents
+- [Personal Information](#personal-information)
+- [Education](#education)
+- [Skills](#skills)
+- [Current Endeavors](#current-endeavors)
+- [How to Connect](#how-to-connect)
+- [Let's Collaborate](#lets-collaborate)
 
   
+## Personal Information
 
-<br/>  
+- **Name:** Rohit Pradhan
+- **Location:** Sikkim, India
 
-  
+## Education
 
-<br/>  
+I completed my Bachelor's in Technology (B.Tech) in Information Technology from Sikkim Manipal Institute of Technology (SMIT) in 2023.
 
+## Skills
 
-<br />
+I have expertise in the following areas:
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+- Programming Language: Python
+- Database: MySQL
+- Web Technologies: HTML, CSS, Django
+- Tools: Microsoft Excel, Power BI
+
+## Current Endeavors
+
+Currently, I am engaged in a course on Data Science, expanding my knowledge and skills in this rapidly evolving field.
+
+## How to Connect
+
+Feel free to connect with me on:
+
+- [LinkedIn](https://www.linkedin.com/in/rohit-pradhan-461288174?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+
+## Let's Collaborate
+
+I'm always open to collaboration and learning from fellow developers. If you have any exciting projects or ideas, feel free to reach out!
+
+Happy coding! 🚀
